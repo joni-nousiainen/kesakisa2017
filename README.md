@@ -1,9 +1,9 @@
 # Kesäkisa 2017
 
-## What is this project?
+Q: What is this project?
 
-_Kesäkisa 2017_ is a clue-based game for a specific event. Work in progress.
+A: _Kesäkisa 2017_ is a clue-based game for a specific friends gathering. It's still work in progress.
 
-## License
+Q: License?
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+A: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
